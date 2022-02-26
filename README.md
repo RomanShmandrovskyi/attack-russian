@@ -3,7 +3,7 @@
 
 1. Завантажуємо Docker та встановлюємо на свій комп'ютер:  
 `Windows`: https://docs.docker.com/desktop/windows/install  
-`MacOS`: https://docs.docker.com/desktop/mac/install
+`MacOS`: https://docs.docker.com/desktop/mac/install  
 Важливо відкрити після цього програму `Docker`. Якщо після відкриття з'являється помилка з текстом `WSL 2 installation is incomplete` завантажуємо та встановлюємо драйвер тут: https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi  
 Після цього повинно працювати. Якщо просить перезавантажити комп'ютер - робимо це.
 
