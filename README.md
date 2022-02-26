@@ -28,6 +28,8 @@ https://epp.genproc.gov.ru
 https://ach.gov.ru  
 https://scrf.gov.ru  
 https://mil.ru  
+https://www.roscosmos.ru  
+https://www.sberbank.ru
 
 Наприклад:
 ```
